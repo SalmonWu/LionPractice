@@ -16,7 +16,4 @@ const setting = {
     }
 };
 
-ReactDOM.render(<Fztable
-    // ref={this.textInput}
-    {...setting}
-/>, document.getElementById("root"));
+ReactDOM.render(<Fztable {...setting} />, document.getElementById("root"));
