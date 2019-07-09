@@ -1,9 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
-// import "./stylesheets/style.css";
 import './stylesheets/style.sass';
-// import Fztable from "./fztable";
-import Fztable from "./table-test";
+import Fztable from "./fztable";
 
 const setting = {
     // M版時一個畫面show幾格儲存格
